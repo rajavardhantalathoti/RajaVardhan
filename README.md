@@ -17,8 +17,8 @@
   📧 <strong>Email:</strong> rajavardhantalathoti@gmail.com<br>
   📱 <strong>Phone:</strong> 9110360037<br>
   📍 <strong>Location:</strong> Chirala, Andhra Pradesh, India<br>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/raja-vardhan-talathoti/">raja-vardhan-talathoti</a><br>
-  🐙 <strong>GitHub:</strong> <a href="https://github.com/rajavardhan">rajavardhan</a>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/raja-vardhan-talathoti" target="_blank">www.linkedin.com/in/raja-vardhan-talathoti</a><br>
+  🐙 <strong>GitHub:</strong> <a href="https://github.com/rajavardhantalathoti" target="_blank">github.com/rajavardhantalathoti</a>
 </p>
 
 ---
@@ -34,19 +34,19 @@
 ## 🚀 Key Projects
 
 - 🩺 <strong>Skin Cancer Detection Platform</strong>  
-  AI dermatology platform using CNN/ResNet for medical image analysis with role-based access and multilingual support (English & Telugu) to assist patients and doctors.
+  AI‑driven dermatology platform using CNN/ResNet for medical image analysis with role-based access and multilingual support (English & Telugu).
 
 - 🌐 <strong>Language Translation System</strong>  
-  Context-aware translation system for Indian languages with an adaptive learning module and intelligent quiz generation to improve translation quality.
+  Context‑aware translation for Indian languages with an adaptive learning module and intelligent quiz generation.
 
 - ⚡ <strong>Real-Time Power Analysis & Theft Detection</strong>  
-  Scalable system using Python and Apache Spark with an ensemble of 5 ML/DL models (XGBoost, Random Forest, ANN, Isolation Forest, Autoencoder) for fraud detection, plus a Flask + Plotly.js dashboard for real-time visualization and LSTM/TCN-based load forecasting.
+  Scalable Python + Apache Spark system with an ensemble of 5 ML/DL models (XGBoost, Random Forest, ANN, Isolation Forest, Autoencoder) and a Flask + Plotly.js dashboard for real‑time visualization and LSTM/TCN‑based forecasting.
 
 - 🏋️ <strong>Fitness Tracker (MERN)</strong>  
-  Full‑stack fitness tracking app using MongoDB, Express, React, and Node.js focusing on secure data handling, activity tracking, and a clean, user-friendly UI.
+  Full‑stack fitness tracking app using MongoDB, Express, React, and Node.js focusing on secure data handling and a clean, user‑friendly interface.
 
 - 🚗 <strong>Voice Controlled Car</strong>  
-  Raspberry Pi and Arduino-based robotic car with Bluetooth control and sensors for obstacle detection and autonomous navigation in constrained environments.
+  Raspberry Pi + Arduino‑based robotic car with Bluetooth control and sensors for obstacle detection and navigation in constrained environments.
 
 ---
 
@@ -55,7 +55,7 @@
 <p align="left">
   ✨ <strong>Creating bugs since:</strong> Implementing CNNs for Skin Cancer Detection and building IoT/robotics projects like a Voice Controlled Car.<br>
   📚 <strong>Currently learning:</strong> Cloud computing, advanced AI/ML, MERN stack, and big data tools like Apache Spark.<br>
-  🎯 <strong>Goals:</strong> Build scalable web apps using MERN, leverage AI for automation, and contribute to data-driven solutions in healthcare, energy, and automation.<br>
+  🎯 <strong>Goals:</strong> Build scalable web apps using MERN, leverage AI for automation, and contribute to data‑driven solutions in healthcare, energy, and automation.<br>
   🎧 <strong>Fun fact:</strong> I debug faster with music, midnight motivation, and a fresh build of my project 🚀
 </p>
 
@@ -67,7 +67,7 @@
 - Python, Java, SQL
 
 ### Libraries & Frameworks
-- NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, Streamlit
+- NumPy, Pandas, Scikit‑learn, TensorFlow, Keras, PyTorch, OpenCV, Streamlit
 
 ### Tools
 - Jupyter Notebook, Google Colab, Git, GitHub
@@ -129,8 +129,11 @@
 ## 🤝 Connect with me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/raja-vardhan-talathoti/" target="_blank">
+  <a href="https://www.linkedin.com/in/raja-vardhan-talathoti" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rajavardhantalathoti" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" height="40" alt="github logo" />
+  </a>
 </div>
-
